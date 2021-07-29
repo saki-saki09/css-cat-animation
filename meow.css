@@ -94,7 +94,7 @@ body {
 
 .blue-bg {
 
-	background-color: #3A3F50;
+	background-color: #121421;
 	overflow:hidden;
 	
 }
@@ -916,7 +916,7 @@ height: 2.5vmin;
 }
 
 .btnpop {
-    background: #282c38;
+    background: #243b4e;
     position: relative;
     width: 40vmin;
     padding: 15px 40px;
@@ -936,7 +936,7 @@ height: 2.5vmin;
     transform: translateX(-50%);
 }
 .btnpop:hover { 
-  background: #4984cc;
+  background: #1462BD;
   color: #FFFFFF;
   cursor: pointer;
 }
