@@ -93,8 +93,7 @@ body {
 }
 
 .blue-bg {
-
-	background-color: #121421;
+    background-color: #07080e;
 	overflow:hidden;
 	
 }
@@ -916,11 +915,11 @@ height: 2.5vmin;
 }
 
 .btnpop {
-    background: #243b4e;
+    background: #102148;
     position: relative;
     width: 40vmin;
     padding: 15px 40px;
-    color: #00A5EA;
+    color: #00b4ff;
     font-size: 25px;
     vertical-align: middle;
     -webkit-border-radius: 1px;
