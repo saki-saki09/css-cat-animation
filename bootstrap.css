@@ -311,17 +311,10 @@ th {
 	background-clip: padding-box;
 }
 
-@font-face {
-	font-family: 'Glyphicons Halflings';
-	src: url(../css/glyphicons-halflings-regular.eot);
-	src: url(../css/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(../css/glyphicons-halflings-regular.woff2) format('woff2'), url(../css/glyphicons-halflings-regular.woff) format('woff'), url(../css/glyphicons-halflings-regular.ttf) format('truetype'), url(../css/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
-}
-
 .glyphicon {
 	position: relative;
 	top: 1px;
 	display: inline-block;
-	font-family: 'Glyphicons Halflings';
 	font-weight: 400;
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
