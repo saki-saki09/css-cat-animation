@@ -307,7 +307,8 @@ th {
 
 .dropdown-menu,
 .modal-content {
-	-webkit-background-clip: padding-box
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
 }
 
 @font-face {
